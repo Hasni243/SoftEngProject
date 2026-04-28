@@ -1,0 +1,14 @@
+H:\MyProject\bin\Debug\net9.0\MyProject.exe
+H:\MyProject\bin\Debug\net9.0\MyProject.deps.json
+H:\MyProject\bin\Debug\net9.0\MyProject.runtimeconfig.json
+H:\MyProject\bin\Debug\net9.0\MyProject.dll
+H:\MyProject\bin\Debug\net9.0\MyProject.pdb
+H:\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
+H:\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
+H:\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
+H:\MyProject\obj\Debug\net9.0\MyProject.dll
+H:\MyProject\obj\Debug\net9.0\refint\MyProject.dll
+H:\MyProject\obj\Debug\net9.0\MyProject.pdb
+H:\MyProject\obj\Debug\net9.0\MyProject.genruntimeconfig.cache
+H:\MyProject\obj\Debug\net9.0\ref\MyProject.dll
